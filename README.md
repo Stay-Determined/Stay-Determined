@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Stay-Determined
 - 👀 I’m interested in the dev universe.
--🌱 I’m currently learning software technologies and mobile development.
+- 🌱 I’m currently learning software technologies and mobile development.
 - 💞️ I’m looking to collaborate on projects to learn, acquire experience and move forward to reach my goals.
 - 📫 How to reach me antoine.tacail@hotmail.fr
